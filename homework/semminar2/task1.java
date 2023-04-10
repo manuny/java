@@ -1,4 +1,4 @@
-package homework.sem2.task1;
+package homework.semminar2;
 
 import java.io.File;
 import java.io.FileWriter;
